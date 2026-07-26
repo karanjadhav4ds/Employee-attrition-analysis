@@ -65,8 +65,8 @@ job role performance to support strategic decision-making.
 - Data Visualization
 
 ---
-## 📸 Dashboard Screenshot
+##  Dashboard Screenshot
 
-### HR Analytics Dashboard
+## HR Analytics Dashboard
 
-![HR Analytics Dashboard](images/hr-dashboard.png)
+![HR Analytics Dashboard](https://github.com/karanjadhav4ds/Employee-attrition-analysis/blob/main/Snapshot%20of%20dashboard.png)
